@@ -5,6 +5,7 @@ Scholarship Yield Token (SYT) is a blockchain-based token designed to facilitate
 
 ## Contract Address
 0xB2A5eDDED8233Aba092f2a99F8333D57A3F5d02c
+[image](https://github.com/user-attachments/assets/289931c3-8514-45df-b92b-cd64cdba802b)
 
 ## Project Vision
 The vision of the Scholarship Yield Token is to revolutionize the scholarship process by leveraging blockchain technology. This project ensures transparency, security, and automation in distributing educational funds while giving stakeholders complete control over the allocation process.
